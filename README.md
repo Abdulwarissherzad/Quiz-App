@@ -20,7 +20,7 @@
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
 </p>
 
-![QuizApp](https://github.com/SafdarJamal/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
+![QuizApp](https://github.com/Abdulwarissherzad/Quiz-App/blob/main/Sample.png)
 
 ## Built with
 
